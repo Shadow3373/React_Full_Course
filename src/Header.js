@@ -9,7 +9,7 @@ const Header = () => {
   };
   return (
     <header className="App-header" style={headerStyle}>
-      <h1>Hello Mame</h1>
+      <h1>Hello Friends</h1>
       <p>Welcome to React</p>
       <hr />
 
